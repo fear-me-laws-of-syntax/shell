@@ -49,3 +49,5 @@ rm -r dir1 dir2 dir3 dir4 dir5
 # 10. How would you verify that all directories and files have been deleted?
 ls
 
+ls
+
