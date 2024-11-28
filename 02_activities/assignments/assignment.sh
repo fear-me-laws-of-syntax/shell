@@ -44,3 +44,5 @@ find data/processed -type f > data/inventory.txt
 ###########################################
 
 echo "Project setup is complete!"
+
+# test - after having reverted main branch to its original state
